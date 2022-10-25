@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\Desktop\NewTown 16.09.2022\server-files\dotnet\runtime\MySql.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
